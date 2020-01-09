@@ -10,7 +10,7 @@ setup(name='deputy',
       author_email='kutayatasen@gmail.com',
       url='https://github.com/kutayatasen/deputy',
       license='MIT Software License',
-      packages=['psycopg2'],
+      packages=['psycopg2','openpyxl'],
       include_package_data=True,
       zip_safe=True,
       )
